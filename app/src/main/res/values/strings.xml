@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CallMotionSample</string>
+
+    <string name="contact_name">Name</string>
+    <string name="contact_number">Number</string>
+    <string name="contact_call">Dekatkan dengan tekinga Anda untuk menjawab telfon</string>
+</resources>
